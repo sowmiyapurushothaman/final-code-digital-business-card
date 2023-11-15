@@ -1,0 +1,17 @@
+{
+    "cards": [
+        {
+            "name": "Kavi Sewdayal",
+            "job": "Relationship Manager",
+            "company": "Future Skills Academy",
+            "email": "kavi@futureskills.co.nz",
+            "mobile": "0272324483",
+            "website": "www.futureskills.co.nz",
+            "profilePhoto": ["/images/logo_fsa.png"],
+            "companyLogo": ["/images/logo_fsa.png"],
+            "linkedin": "kavi.sewdayal",
+            "id": 1
+        }
+    ]
+
+}
